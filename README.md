@@ -1,2 +1,4 @@
-# trojan-on-your-port-scanner
-This scanner tries to detect open ports for commonly known trojans, As for trojans to connect it needs a port and that is what my tool is going to detect.
+
+Trojan Port Scanner Basically Tries To Detect All The Ports Which Could Have Been Opened By The Trojan To Establish Connection.
+Victim Can Run This Tool To Check If Any Unusual Port Is Getting Used By Any Malicious Software. Also We Have Added Details For Each
+Port So You Can Even Assume Which Trojan Is In Your System And Verify It's Existence.
